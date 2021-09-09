@@ -1,5 +1,6 @@
 # Healtify-TwTCodejam-Health
 An app that notifies you of your upcoming appointments, medications, and much more! 🔔 
+All credits are owned by AGCAL#1924
 
 # Introduction 
 Healtify is an app where you can be reminded of your upcoming doctor appointments, medications, and much more!.  Not only it notifies you, but it also has a timer and a stopwatch for your fitness trainings and other personal activities!
