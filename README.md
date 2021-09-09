@@ -30,13 +30,16 @@ pip install -r requirements.txt
 ```
 ![image](https://user-images.githubusercontent.com/83540978/132640462-fd897c1c-950e-44b1-8866-b7ebf591c271.png)
 
-4. run the code
+4. run the code 
 ```
 python main.py
 ```
 ![image](https://user-images.githubusercontent.com/83540978/132640559-71d66392-68f4-4a7f-bb62-8786eb24b6a3.png)
 
-# How to Use
+# How to Use ⚙️
+⚠️[IMPORTANT NOTICE]⚠️
+The program has to be opened first for it to work. If you close the program, all the notifications will not work.
+
 ## Doctor Appointments reminder
 ### Adding appointments
 1. Type in the appointment name
@@ -130,3 +133,5 @@ python main.py
 2. Click the mark as done button
 
 ![image](https://user-images.githubusercontent.com/83540978/132648316-fcc9662b-f7dd-4b82-8fbe-0764e570cb69.png)
+
+
