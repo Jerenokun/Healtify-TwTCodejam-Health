@@ -19,9 +19,9 @@ git clone https://github.com/AGCAL1508/Healtify-TwTCodejam-Health/edit/main/READ
 ```
 cd Healtify-TwTCodejam-Health
 ```
-3. install the requirements
+3. install the dependencies
 ```
-pip install -r requirements
+pip install -r requirements.txt
 ```
 4. run the code
 ```
