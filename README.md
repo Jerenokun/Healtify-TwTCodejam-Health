@@ -35,4 +35,19 @@ python main.py
 ```
 ![image](https://user-images.githubusercontent.com/83540978/132640559-71d66392-68f4-4a7f-bb62-8786eb24b6a3.png)
 
+# How to Use
+## Doctor Appointments reminder
+**Adding appointments**
+1. Type in the appointment name
+![image](https://user-images.githubusercontent.com/83540978/132641487-d3b57682-d510-4600-bc75-636127fc5419.png)
 
+2. Set the date and time of the appointment (note: the time is in military time and the datetime should be 5 minutes ahead)
+
+![image](https://user-images.githubusercontent.com/83540978/132641614-f77eb419-fa30-4984-adf4-230c156c7c40.png)![image](https://user-images.githubusercontent.com/83540978/132641701-df52aaa7-5a39-4539-9ecb-9f4e08ff8de5.png)
+
+3. click the add button
+
+![image](https://user-images.githubusercontent.com/83540978/132642041-48120b6c-66a5-4651-a89a-bd320c08e4d6.png)
+
+**Editing Appointments
+1. select an appointment to be edited by clicking an item in the treeview/table
