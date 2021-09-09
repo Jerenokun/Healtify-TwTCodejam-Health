@@ -82,6 +82,7 @@ Click the reset button to reset the timer
 ![image](https://user-images.githubusercontent.com/83540978/132643714-b467ad36-720d-4ffe-8c22-ccbd14932b00.png)
 
 **Stopwatch**
+
 Click the start/stop button to start or stop the stopwatch
 
 ![image](https://user-images.githubusercontent.com/83540978/132643851-379199a9-3321-4f3f-bb8e-87e755dbf9c5.png)
