@@ -604,7 +604,6 @@ class App:
         with open("data.json") as f:
             contents = j.load(f)
         if self.check_entry_is_valid(edit=True):
-            print("yes")
             selection = self.appointment_table.selection()[0]
             table_data = self.daily_remind_table.get_children()
             selection_index = table_data.index(selection)
@@ -652,7 +651,6 @@ class App:
     def daily_remind_edit(self):
         with open("data.json", "r") as f:
             contents = j.load(f)
-        print(self.daily_remind_table.selection())
         selection = self.daily_remind_table.selection()
         if selection:
             if self.daily_remind_entry.get():
@@ -738,7 +736,7 @@ class App:
             item_date = item_data[2]
             item_time = item_data[3]
             if item_status == "pending" and (
-                item_date < t.strftime("%#D")
+                item_date > t.strftime("%#D")
                 or item_time <= t.strftime("%H:%M")
                 and item_date == t.strftime("%#D")
             ):
