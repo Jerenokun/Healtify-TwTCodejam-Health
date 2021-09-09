@@ -38,7 +38,7 @@ python main.py
 
 # How to Use
 ## Doctor Appointments reminder
-**Adding appointments**
+### Adding appointments
 1. Type in the appointment name
 ![image](https://user-images.githubusercontent.com/83540978/132641487-d3b57682-d510-4600-bc75-636127fc5419.png)
 
@@ -50,7 +50,7 @@ python main.py
 
 ![image](https://user-images.githubusercontent.com/83540978/132642041-48120b6c-66a5-4651-a89a-bd320c08e4d6.png)
 
-**Editing Appointments**
+### Editing Appointments
 1. fill up the entry box and the date entry and time spinboxes with the new data 
 ![image](https://user-images.githubusercontent.com/83540978/132642679-a820246b-2677-4ada-b6ac-5553f63cdc2a.png)
 
@@ -61,7 +61,7 @@ python main.py
 
 ![image](https://user-images.githubusercontent.com/83540978/132642848-fc887225-085c-4526-a5d2-6c379059c335.png)
 
-**Deleting Appointments**
+### Deleting Appointments
 1. select an appointment by clicking an item in the treeview/table
 ![image](https://user-images.githubusercontent.com/83540978/132642708-9f5ca4df-a441-478e-bd0a-c2e1ea65cbb6.png)
 
@@ -70,7 +70,7 @@ python main.py
 ![image](https://user-images.githubusercontent.com/83540978/132643117-0d24bbca-f810-4752-a1be-497dd087c69d.png)
 
 ## Timer and stopwatch
-**Timer**
+### Timer
 1. click the spinbox buttons to set the timer
 ![image](https://user-images.githubusercontent.com/83540978/132643477-30ba5ea6-9036-49fc-bcc3-fc3cf3d7d26d.png)
 
@@ -78,16 +78,55 @@ python main.py
 
 ![image](https://user-images.githubusercontent.com/83540978/132643606-4ebdbe52-17bf-4612-89b1-b300f45a33de.png)
 
-Click the reset button to reset the timer
+- Click the reset button to reset the timer
 
 ![image](https://user-images.githubusercontent.com/83540978/132643714-b467ad36-720d-4ffe-8c22-ccbd14932b00.png)
 
-**Stopwatch**
+### Stopwatch
 
-Click the start/stop button to start or stop the stopwatch
+- Click the start/stop button to start or stop the stopwatch
 
 ![image](https://user-images.githubusercontent.com/83540978/132643851-379199a9-3321-4f3f-bb8e-87e755dbf9c5.png)
 
-Click the reset button to reset the stopwatch
+- Click the reset button to reset the stopwatch
 
 ![image](https://user-images.githubusercontent.com/83540978/132643975-640f2367-0ead-41f8-917e-c562daced76a.png)
+
+## Medication reminder
+
+### Adding a reminder
+1. Enter the name of the medication in the entrybox and set the time of the medication
+
+![image](https://user-images.githubusercontent.com/83540978/132646861-a5d2e088-2bbe-4973-8dad-3b7c10624851.png)
+
+2. Click the add button
+
+![image](https://user-images.githubusercontent.com/83540978/132646963-1705e400-c1fc-40cb-bac9-9206649e1704.png)
+
+### Editing a reminder
+1. Enter the new name of the medication in the entrybox and set the new time of of the medication
+
+![image](https://user-images.githubusercontent.com/83540978/132647153-1916d5d2-68c0-4244-9bf1-9c9c6eb73c3f.png)
+
+2. Click the edit button
+
+![image](https://user-images.githubusercontent.com/83540978/132647244-75ab527e-fce8-4cc5-a8ab-87d848c18f95.png)
+
+### Deleting a reminder
+
+1. select an item in the table/treeview
+
+![image](https://user-images.githubusercontent.com/83540978/132648044-a09ead3e-fe3a-4a7e-b4c9-040f73b6faeb.png)
+
+2. Click the delete button
+
+![image](https://user-images.githubusercontent.com/83540978/132648102-1a939a5a-1178-43d1-8d78-64798e2dfe40.png)
+
+### Marking an reminder as taken
+1. select an item in the table/treeview
+
+![image](https://user-images.githubusercontent.com/83540978/132648044-a09ead3e-fe3a-4a7e-b4c9-040f73b6faeb.png)
+
+2. Click the mark as done button
+
+![image](https://user-images.githubusercontent.com/83540978/132648316-fcc9662b-f7dd-4b82-8fbe-0764e570cb69.png)
