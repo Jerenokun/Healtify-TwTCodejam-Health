@@ -9,6 +9,21 @@ This app includes:
 - **Timer** - for your timed exercises!
 - **Stopwatch** - to measure how fast you are!
 - **Medication reminder** - to remind you to take your medicine!
-- **20 20 20 reminder** - to prevent eye strain by reminding you of taking a break every 20 minutes!
 
 # Setup
+1. clone the repository:
+```
+git clone https://github.com/AGCAL1508/Healtify-TwTCodejam-Health/edit/main/README.md
+```
+2. change the current working directory to the directory of the folder
+```
+cd Healtify-TwTCodejam-Health
+```
+3. install the requirements
+```
+pip install -r requirements
+```
+4. run the code
+```
+python main.py
+```
