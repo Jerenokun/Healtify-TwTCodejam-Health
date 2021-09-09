@@ -49,5 +49,43 @@ python main.py
 
 ![image](https://user-images.githubusercontent.com/83540978/132642041-48120b6c-66a5-4651-a89a-bd320c08e4d6.png)
 
-**Editing Appointments
-1. select an appointment to be edited by clicking an item in the treeview/table
+**Editing Appointments**
+1. fill up the entry box and the date entry and time spinboxes with the new data 
+![image](https://user-images.githubusercontent.com/83540978/132642679-a820246b-2677-4ada-b6ac-5553f63cdc2a.png)
+
+2. select an appointment by clicking an item in the treeview/table
+![image](https://user-images.githubusercontent.com/83540978/132642708-9f5ca4df-a441-478e-bd0a-c2e1ea65cbb6.png)
+
+3. click the edit button
+
+![image](https://user-images.githubusercontent.com/83540978/132642848-fc887225-085c-4526-a5d2-6c379059c335.png)
+
+**Deleting Appointments**
+1. select an appointment by clicking an item in the treeview/table
+![image](https://user-images.githubusercontent.com/83540978/132642708-9f5ca4df-a441-478e-bd0a-c2e1ea65cbb6.png)
+
+2. click the delete/remove button
+
+![image](https://user-images.githubusercontent.com/83540978/132643117-0d24bbca-f810-4752-a1be-497dd087c69d.png)
+
+## Timer and stopwatch
+**Timer**
+1. click the spinbox buttons to set the timer
+![image](https://user-images.githubusercontent.com/83540978/132643477-30ba5ea6-9036-49fc-bcc3-fc3cf3d7d26d.png)
+
+2. click the start/stop button to start it or stop it
+
+![image](https://user-images.githubusercontent.com/83540978/132643606-4ebdbe52-17bf-4612-89b1-b300f45a33de.png)
+
+Click the reset button to reset the timer
+
+![image](https://user-images.githubusercontent.com/83540978/132643714-b467ad36-720d-4ffe-8c22-ccbd14932b00.png)
+
+**Stopwatch**
+Click the start/stop button to start or stop the stopwatch
+
+![image](https://user-images.githubusercontent.com/83540978/132643851-379199a9-3321-4f3f-bb8e-87e755dbf9c5.png)
+
+Click the reset button to reset the stopwatch
+
+![image](https://user-images.githubusercontent.com/83540978/132643975-640f2367-0ead-41f8-917e-c562daced76a.png)
