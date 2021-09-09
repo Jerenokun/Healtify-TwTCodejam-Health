@@ -13,7 +13,7 @@ This app includes:
 # Setup 🖥 
 1. clone the repository: 
 ```
-git clone https://github.com/AGCAL1508/Healtify-TwTCodejam-Health/edit/main/README.md
+git clone https://github.com/AGCAL1508/Healtify-TwTCodejam-Health
 ```
 2. change the current working directory to the directory of the folder
 ```
