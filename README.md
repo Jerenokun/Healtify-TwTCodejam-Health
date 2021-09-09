@@ -15,10 +15,14 @@ This app includes:
 ```
 git clone https://github.com/AGCAL1508/Healtify-TwTCodejam-Health
 ```
+![image](https://user-images.githubusercontent.com/83540978/132639931-a8ae5022-38ba-436a-baf3-c153e88e5f02.png)
+
 2. change the current working directory to the directory of the folder
 ```
 cd Healtify-TwTCodejam-Health
 ```
+![image](https://user-images.githubusercontent.com/83540978/132639990-0522aad2-fec0-4a4d-ba88-232c6e50f42c.png)
+
 3. install the dependencies
 ```
 pip install -r requirements.txt
