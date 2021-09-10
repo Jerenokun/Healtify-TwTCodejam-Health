@@ -40,14 +40,14 @@ python main.py
 ⚠️[IMPORTANT NOTICE]⚠️
 The program has to be opened first for it to work. If you close the program, all the notifications will not work.
 
-## Doctor Appointments reminder
+## Doctor Appointments reminder 👨‍⚕
 ### Adding appointments
-1. Type in the appointment name
-2. Set the date and time of the appointment (note: the time is in military time and the datetime should be 5 minutes ahead)
+1. Enter the appointment name in the entrybox and set the date and time of the appointment 
+   (note: the time is in military time and the datetime should be 5 minutes ahead)
 3. click the add button
 
 ### Editing Appointments
-1. fill up the entry box and the date entry and time spinboxes with the new data 
+1. Enter the new name of the appointment in the entrybox and set the new date and time of the appointment
 2. select an appointment by clicking an item in the treeview/table
 3. click the edit button
 
@@ -55,7 +55,7 @@ The program has to be opened first for it to work. If you close the program, all
 1. select an appointment by clicking an item in the treeview/table
 2. click the delete/remove button
 
-## Timer and stopwatch
+## Timer and stopwatch ⏳⏱️
 ### Timer
 1. click the spinbox buttons to set the timer
 2. click the start/stop button to start it or stop it
@@ -66,7 +66,7 @@ The program has to be opened first for it to work. If you close the program, all
 - Click the start/stop button to start or stop the stopwatch
 - Click the reset button to reset the stopwatch
 
-## Medication reminder
+## Medication reminder💊
 
 ### Adding a reminder
 1. Enter the name of the medication in the entrybox and set the time of the medication
@@ -89,4 +89,3 @@ The program has to be opened first for it to work. If you close the program, all
 ![image](https://user-images.githubusercontent.com/83540978/132818810-b5ae6d5e-ceda-4de0-b9eb-76a9cf83b80d.png)
 ![image](https://user-images.githubusercontent.com/83540978/132818836-d2e605a7-a653-4483-9ef8-34fb59098792.png)
 ![image](https://user-images.githubusercontent.com/83540978/132818952-a816c32f-956d-4ae4-8862-72627a7d5a7c.png)
-
