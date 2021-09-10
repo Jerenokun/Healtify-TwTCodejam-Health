@@ -542,7 +542,6 @@ class App:
                 else:
                     remove_time_warning()
             elif date_inp == date_now:
-                print("yes")
                 if time_inp - time_now >= 5:
                     if edit:
                         if self.appointment_table.selection():
@@ -607,7 +606,6 @@ class App:
         with open("data.json") as f:
             contents = j.load(f)
         if self.check_entry_is_valid(edit=True):
-            print("yes")
             selection = self.appointment_table.selection()[0]
             table_data = self.daily_remind_table.get_children()
             selection_index = table_data.index(selection)
@@ -655,7 +653,6 @@ class App:
     def daily_remind_edit(self):
         with open("data.json", "r") as f:
             contents = j.load(f)
-        print(self.daily_remind_table.selection())
         selection = self.daily_remind_table.selection()
         if selection:
             if self.daily_remind_entry.get():
